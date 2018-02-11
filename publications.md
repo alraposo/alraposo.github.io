@@ -9,7 +9,7 @@ Marques, J.F, **Raposo, A.** & Almeida, J. (in press). Structural processing and
 
 Marques, J.F., Mendes, M. & **Raposo, A** (2012). Sensitivity and salience of form-function correlations of objects: evidence from feature tasks. Memory & Cognition 40, 748-759.
 
-**Raposo, A.**, Mendes, M. & Marques, J.F. (2012). The hierarchical organization of semantic memory: executive function in the processing of superordinate concepts. NeuroImage 59, 1870-1878. [PDF]
+**Raposo, A.**, Mendes, M. & Marques, J.F. (2012). The hierarchical organization of semantic memory: executive function in the processing of superordinate concepts. NeuroImage 59, 1870-1878. [[PDF]](/public/Raposo_etal_12_superordinate.pdf)
 
 
 ### 2011
