@@ -9,7 +9,6 @@ I am interested in the cognitive and neural bases of human memory. My research c
 
 I received my PhD from the University of Cambridge where I studied the organisation of semantic memory. I then joined Duke University as a postdoc to investigate the neural correlates of episodic memory. Currently, I am an Assistant Professor at Faculdade de Psicologia, Universidade de Lisboa.
 
-
 **Address:** \\
 Faculdade de Psicologia \\
 Universidade de Lisboa \\
