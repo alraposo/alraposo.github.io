@@ -3,19 +3,6 @@ layout: page
 title: Publications
 ---
 
-### 2012
-
-Marques, J.F, **Raposo, A.** & Almeida, J. (in press). Structural processing and category-specific deficits. Cortex.
-
-Marques, J.F., Mendes, M. & **Raposo, A** (2012). Sensitivity and salience of form-function correlations of objects: evidence from feature tasks. Memory & Cognition 40, 748-759.
-
-**Raposo, A.**, Mendes, M. & Marques, J.F. (2012). The hierarchical organization of semantic memory: executive function in the processing of superordinate concepts. NeuroImage 59, 1870-1878. [[PDF]](/public/Raposo_etal_12_superordinate.pdf)
-
----
-layout: page
-title: Publications
----
-
 ### 2018
 
 Fonseca, J., **Raposo, A.**, & Martins, I.P. (2018). Cognitive functioning in chronic post-stroke aphasia. Applied Neuropsychology: Adult, 1-10. [[PDF]](/public/Fonseca_etal_18_chronic_aphasia.pdf)
@@ -39,10 +26,6 @@ Alves, M. & **Raposo, A.** (2015). Is it a bird? Differential effects of concept
 **Raposo, A.** & Moreira, J. (2015). Editorial – The persistency of memory: essays in honour of J. Frederico Marques. Revista Portuguesa de Psicologia 44, 3-5. [[PDF]](/public/Raposo_Moreira_15_Editorial.pdf)
 
 Santi, A., **Raposo, A.** & Marques, J.F. (2015). Superordinate and domain category structure: evidence from typicality ratings. Revista Portuguesa de Psicologia 44, 81-108. [[PDF]](/public/Santi_etal_15_typicality_ratings.pdf)
-
-
-
-
 
 ### 2013
 
