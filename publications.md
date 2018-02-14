@@ -47,7 +47,7 @@ Marques, J.F. & **Raposo, A.** (2011). Structural dimensions of object pictures:
 
 ### 2010
 
-Dobbins, I.G. & Raposo, A. (2010). Episodic and autobiographical memory: psychological and neural aspects. In G. Koob, R.F. Thompson and M. Le Moal (eds) Encyclopedia of Behavioral Neuroscience. London: Elsevier. [[PDF]](/public/Dobbins_Raposo_10_BEHN.pdf)
+Dobbins, I.G. & **Raposo, A.** (2010). Episodic and autobiographical memory: psychological and neural aspects. In G. Koob, R.F. Thompson and M. Le Moal (eds) Encyclopedia of Behavioral Neuroscience. London: Elsevier. [[PDF]](/public/Dobbins_Raposo_10_BEVN.pdf)
 
 Han, S., Huettel, S.A., **Raposo, A.**, Adcock, R.A. & Dobbins, I.G. (2010). Functional significance of striatal responses during episodic decisions: recovery or goal attainment? The Journal of Neuroscience 30, 4767-4775. [[PDF]](/public/Han_etal_10_reward.pdf)
 
