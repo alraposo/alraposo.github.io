@@ -3,24 +3,16 @@ layout: page
 title: Research
 ---
 
-### Semantic control for understanding concepts
+My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organized in the brain? How are the words’ meanings shaped by the context? Does our prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
 
-<img src="/public/concept_feature.jpg" class="left-200">
+### Semantic representation and control 
 
-Objects can be identified at different hierarchical levels. For example, a dog may be called a dog, but we can also use a more general name like animal or mammal, or a more specific name such as collie or Lassie. We found that understanding superordinate concepts (mammal), relative to basic-level concepts (dog), engaged the left lateral prefrontal cortex. Importantly, such activation was modulated by the proportion of features shared by the members of the concept. This interaction between concept level and feature sharedness in the PFC suggests that understanding superordinate concepts requires extra semantic control to retrieve less shared information in a goal-directed manner.
+I investigate how people’s knowledge about objects (apple) and their features (has seeds) is functionally organized and neurologically implemented. We have explored the specific functions of the anterior temporal lobe and inferior parietal lobe in integrating semantic features into coherent concepts. Given our vast semantic knowledge, a critical question concerns how we selectively and flexibly retrieve the information needed to carry out the task at hand, avoiding interference of non-relevant information. I am particularly interested in the role of the prefrontal cortex in exerting control over the retrieved semantic representations. 
 
-### Semantic strategies during episodic memory retrieval
+### Integration of words into context
 
-<img src="/public/pic1_small.jpg" class="right-200">
+My research has provided evidence about how we access, select and integrate the meaning of words into context (kick the ball vs. kick the bucket). In a set of fMRI and EEG studies, using semantic ambiguity, semantic illusions and semantic predictability, I explore how the prior sentential context modulates the meaning attributed to upcoming words and how it promotes inference drawing. We are currently testing the hypothesis that establishing inferences while a sentence unfolds is accompanied by monitoring mechanisms that enable the detection and correction of erroneous inferences.
 
-Sometimes knowledge comes to mind automatically (e.g. remembering our mother's name) but often we must search memory strategically in a goal-directed manner. My research revolves around the mechanisms that allow us to recover past experiences depending upon our goals and needs. We found that a specific region of the prefrontal cortex - the left ventrolateral portion - is critical for the self-initiation of semantic strategies during episodic recovery. Importantly, activation of this region predicted individual differences in performance, such that increased activation facilitated recollection. This study constitutes a first step towards a broader set of experiments looking at how individuals use semantic information as a strategy for episodic retrieval.
+### Semantic strategies in episodic memory retrieval
 
-### Integration of semantic information in social decision making
-
-<img src="/public/pic2_small.jpg" class="right-250">
-
-In the layered setting of social decision making, semantic knowledge plays a critical role, not just in understanding our own mental states, but also in understanding others and in establishing relations between oneself and others. In an fMRI study we looked at the contributions of the frontopolar cortex to semantic decisions about self, others, and relations. Results showed a functional dissociation between medial and lateral frontopolar cortex. Medial regions were activated during semantic decisions about self and others, consistent with a role in mentalizing, whereas lateral frontopolar was recruited during relational judgments that required the integration of semantic information. This research adds to a growing body of results on the contribution of the frontopolar cortex to higher-order cognition.
-
-### Semantic disambiguation in spoken language
-
-A crucial component of semantic memory is the knowledge about words and its meanings. I used the phenomenon of semantic ambiguity (words that have more than one meaning) to explore how the meaning of concepts is integrated in contextually appropriate sentences. In a set of fMRI studies, we found that action words in literal sentences (e.g. kick the ball) activated regions along the motor cortex responsible for movement execution. However, such activation did not occur for the same words in idiomatic sentences, where the context emphasized non-action features (e.g. kick the bucket). These findings lend support to cognitive theories of semantic flexibility, by showing that semantic context determines the degree to which relevant features are processed when a word is heard.
+In these studies, I have examined how our memories of past events are edited and reconfigured as a result of prior knowledge, goals and cues. I am interested in understanding the nature of the semantic operations that support episodic memory and which encoding and retrieval processes benefit from semantics. This work has outlined the role of the prefrontal cortex and its interactions with posterior regions in the flexible use of semantic cues and strategies to promote successful episodic retrieval. Using multivariate pattern analysis, we are investigating how the semantic similarity and distinctiveness of past events impact the way people retrieve those events.
