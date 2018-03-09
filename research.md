@@ -11,7 +11,7 @@ My research incorporates behavioural measures and neuroimaging data to gain a be
 
 ### Integration of words into context
 
-<img align="right" width="200" src="https://alraposo.github.io/Moses2.jpg">Our research has provided evidence about how we access, select and integrate the meaning of words into context. In a set of fMRI and EEG studies, using semantic ambiguity, semantic illusions and semantic predictability, we have explored how the sentential context modulates the meaning attributed to upcoming words and how it enhances inference drawing. We are currently testing the hypothesis that establishing inferences while a sentence unfolds is accompanied by monitoring mechanisms that enable the detection and correction of erroneous inferences.
+<img align="right" width="300" src="https://alraposo.github.io/Moses2.jpg">Our research has provided evidence about how we access, select and integrate the meaning of words into context. In a set of fMRI and EEG studies, using semantic ambiguity, semantic illusions and semantic predictability, we have explored how the sentential context modulates the meaning attributed to upcoming words and how it enhances inference drawing. We are currently testing the hypothesis that establishing inferences while a sentence unfolds is accompanied by monitoring mechanisms that enable the detection and correction of erroneous inferences.
 
 ### Semantic strategies in episodic memory retrieval
 
