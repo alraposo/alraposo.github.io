@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
+!birds2My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
 
 ### Semantic representation and control 
 
