@@ -3,10 +3,11 @@ layout: page
 title: Research
 ---
 
-![Image of birds2](https://alraposo.github.com/birds2.pjg) My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
+My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
 
 ### Semantic representation and control 
 
+![Image of birds2](https://alraposo.github.com/birds2.pjg) 
 I investigate how people’s knowledge about objects (apple) and their features (has seeds) is functionally organised and neurologically implemented. We have explored the specific functions of the anterior temporal lobe and inferior parietal lobe in integrating semantic features into coherent concepts. Given our vast semantic knowledge, a critical question concerns how we selectively and flexibly retrieve the information needed to carry out the task at hand, avoiding interference of non-relevant information. I am particularly interested in the role of the prefrontal cortex in exerting control over retrieved semantic representations. 
 
 ### Integration of words into context
