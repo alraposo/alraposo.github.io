@@ -8,7 +8,7 @@ My research incorporates behavioural measures and neuroimaging data to gain a be
 ### Semantic representation and control 
 
 ![alt text](https://alraposo.github.io/birds2.jpg) 
-<img align="left" width="100" height="100" src="https://alraposo.github.io/birds2.jpg/100/100">I investigate how people’s knowledge about objects (apple) and their features (has seeds) is functionally organised and neurologically implemented. We have explored the specific functions of the anterior temporal lobe and inferior parietal lobe in integrating semantic features into coherent concepts. Given our vast semantic knowledge, a critical question concerns how we selectively and flexibly retrieve the information needed to carry out the task at hand, avoiding interference of non-relevant information. I am particularly interested in the role of the prefrontal cortex in exerting control over retrieved semantic representations. 
+<img align="left" width="100" height="100" src="https://alraposo.github.io/birds2.jpg">I investigate how people’s knowledge about objects (apple) and their features (has seeds) is functionally organised and neurologically implemented. We have explored the specific functions of the anterior temporal lobe and inferior parietal lobe in integrating semantic features into coherent concepts. Given our vast semantic knowledge, a critical question concerns how we selectively and flexibly retrieve the information needed to carry out the task at hand, avoiding interference of non-relevant information. I am particularly interested in the role of the prefrontal cortex in exerting control over retrieved semantic representations. 
 
 ### Integration of words into context
 
