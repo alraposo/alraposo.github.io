@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research incorporates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
+My research integrates behavioural measures and neuroimaging data to gain a better understanding of the neurocognitive mechanisms underlying memory retrieval and expression of knowledge. How is our knowledge about objects organised in the brain? How are the words’ meanings shaped by the context? Does prior knowledge affect the recollection of past events? Which brain regions mediate retrieval of general knowledge vs. specific past events? 
 
 ### Semantic representation and control 
 
@@ -15,4 +15,4 @@ My research incorporates behavioural measures and neuroimaging data to gain a be
 
 ### Semantic strategies in episodic memory retrieval
 
-I have examined how our memories of past events are edited and reconfigured as a result of prior knowledge, goals and cues. I am interested in understanding the nature of the semantic operations that support episodic memory and which encoding and retrieval processes benefit from semantics. This work has outlined the role of the prefrontal cortex and its interactions with posterior regions in the flexible use of semantic cues and strategies to promote successful episodic retrieval. Using multivariate pattern analysis, we are investigating how the semantic similarity and distinctiveness of past events impact the way people retrieve those events.
+<img align="left" width="300" src="https://alraposo.github.io/framing2.jpg">I have examined how our memories of past events are edited and reconfigured as a result of prior knowledge, goals and cues. I am interested in understanding the nature of the semantic operations that support episodic memory and which encoding and retrieval processes benefit from semantics. This work has outlined the role of the prefrontal cortex and its interactions with posterior regions in the flexible use of semantic cues and strategies to promote successful episodic retrieval. Using multivariate pattern analysis, we are investigating how the semantic similarity and distinctiveness of past events impact the way people retrieve those events.
