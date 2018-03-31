@@ -7,7 +7,7 @@ My research integrates behavioural measures and neuroimaging data to gain a bett
 
 ### Semantic representation and control 
 
-<img src="/public/birds2.jpg" class="left-200">
+<img src="/public/birds2.jpg" class="left-250">
 
 We investigate how people’s knowledge about concepts (e.g., bird) is functionally organised and neurologically implemented. We have explored the specific functions of the anterior temporal lobe and inferior parietal lobe in integrating multiple features into single coherent concepts. Given our vast semantic knowledge, a critical question concerns how we selectively and flexibly retrieve the information needed to carry out the task at hand, avoiding interference of non-relevant information. I am particularly interested in the role of the prefrontal cortex in exerting control over retrieved semantic representations.
 
