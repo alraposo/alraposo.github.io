@@ -5,9 +5,9 @@ title: Publications
 
 ### 2018
 
-**Raposo, A.**, Frade, S., Alves, M., & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164.
+**Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164.
 
-Fonseca, J., **Raposo, A.**, & Martins, I.P. (2018). Cognitive functioning in chronic post-stroke aphasia. Applied Neuropsychology: Adult, 1-10. [[PDF]](/public/Fonseca_etal_18_chronic_aphasia.pdf)
+Fonseca, J., **Raposo, A.** & Martins, I.P. (2018). Cognitive functioning in chronic post-stroke aphasia. Applied Neuropsychology: Adult, 1-10. [[PDF]](/public/Fonseca_etal_18_chronic_aphasia.pdf)
 
 ### 2017
 
@@ -15,7 +15,7 @@ Fonseca, J., **Raposo, A.** & Martins, I.P. (2017). Cognitive performance and ap
 
 ### 2016
 
-Fonseca, J., Miranda, F., Moura, O., **Raposo, A.** & Pavão-Martins, I. (2016). Camels and cactus: preliminary Portuguese normative values to a semantic memory test. Sinapse, 16, 5-13. [[PDF]](/public/Fonseca_etal_16_Camel_Cactus.pdf)
+Fonseca, J., Miranda, F., Moura, O., **Raposo, A.** & Martins, I.P. (2016). Camels and cactus: preliminary Portuguese normative values to a semantic memory test. Sinapse, 16, 5-13. [[PDF]](/public/Fonseca_etal_16_Camel_Cactus.pdf)
 
 **Raposo, A.**, Frade, S. & Alves, M. (2016). Framing memories: how the retrieval query format shapes the neural bases of remembering. Neuropsychologia, 89, 309-319. [[PDF]](/public/Raposo_etal_16_framing.pdf)
 
