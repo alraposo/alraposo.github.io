@@ -5,7 +5,7 @@ title: Publications
 
 ### 2018
 
-**Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164.
+**Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164. [[PDF]](/public/Raposo_etal_18_prices.pdf)
 
 Fonseca, J., **Raposo, A.** & Martins, I.P. (2018). Cognitive functioning in chronic post-stroke aphasia. Applied Neuropsychology: Adult, 1-10. [[PDF]](/public/Fonseca_etal_18_chronic_aphasia.pdf)
 
