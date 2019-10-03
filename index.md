@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img src="/public/AnaRaposo1.jpg" class="left-200">
+<img src="/public/AnaRaposo1.png" class="left-200">
 
 I am interested in the cognitive and neural bases of human memory. My research combines behavioural and neuroimaging (fMRI) methods to gain a better understanding of the mechanisms that support retrieval of past experiences and expression of knowledge.
 
