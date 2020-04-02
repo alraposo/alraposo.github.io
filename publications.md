@@ -5,7 +5,7 @@ title: Publications
 
 ### 2019
 
-Vieira, A. & **Raposo, A.** (2019). Recordar um cenário de crime. Estudo sobre as aptidões de memória dos investigadores criminais. Investigação Criminal, Ciências Croiminais e Forenses (IC3F), 4, 24-40. [[PDF]](/public/Vieira_Raposo_19_crime.pdf)
+Vieira, A. & **Raposo, A.** (2019). Recordar um cenário de crime. Estudo sobre as aptidões de memória dos investigadores criminais. Investigação Criminal, Ciências Criminais e Forenses (IC3F), 4, 24-40. [[PDF]](/public/Vieira_Raposo_19_crime.pdf)
 
 ### 2018
 
