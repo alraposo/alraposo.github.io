@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+### 2019
+
+Vieira, A. & **Raposo, A.** (2019). Recordar um cenário de crime. Estudo sobre as aptidões de memória dos investigadores criminais. Investigação Criminal, Ciências Croiminais e Forenses (IC3F), 4, 24-40. [[PDF]](/public/Vieira_Raposo_19_crime.pdf)
+
 ### 2018
 
 **Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164. [[PDF]](/public/Raposo_etal_18_prices.pdf)
