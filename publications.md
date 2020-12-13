@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+### 2021
+
+Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203. [[PDF]](/public/Andrade_Raposo_19_adolescents.pdf)
+
 ### 2019
 
 Vieira, A. & **Raposo, A.** (2019). Recordar um cenário de crime. Estudo sobre as aptidões de memória dos investigadores criminais. Investigação Criminal, Ciências Criminais e Forenses (IC3F), 4, 24-40. [[PDF]](/public/Vieira_Raposo_19_crime.pdf)
