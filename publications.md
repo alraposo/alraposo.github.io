@@ -5,7 +5,7 @@ title: Publications
 
 ### 2021
 
-Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
+Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203, 105044. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
 
 ### 2019
 
