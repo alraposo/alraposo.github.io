@@ -5,9 +5,9 @@ title: Publications
 
 ### 2021
 
-Delgado, J., **Raposo, A.** & Santos, A. L. (2021). Assessing intervention effects in sentence processing: object relatives vs. subject control. Frontiers in Psychology, 12, 610909. [[PDF]](/public/Delgado_etal_21_relatives_control.pdf)
+Delgado, J., **Raposo, A.** & Santos, A. L. (2021). Assessing intervention effects in sentence processing: object relatives vs. subject control. Frontiers in Psychology, 12:610909. [[PDF]](/public/Delgado_etal_21_relatives_control.pdf)
 
-Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203, 105044. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
+Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203:105044. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
 
 ### 2019
 
