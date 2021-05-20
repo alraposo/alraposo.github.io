@@ -5,7 +5,7 @@ title: Publications
 
 ### 2021
 
-Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye movements reveal semantic interference effects during the encoding of naturalistic scenes in long term memory. Psychonomic Bulletin & Review. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
+Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
 
 Alves, M., Figueiredo, P., Roberto, M. S. & **Raposo, A.** (2021). Using concept typicality to explore semantic representation and control in healthy ageing. Cognitive Processing. [[PDF]](/public/Alves_etal_21_typicality_ageing.pdf)
 
