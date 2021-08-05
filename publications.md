@@ -5,7 +5,7 @@ title: Publications
 
 ### 2021
 
-Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2021). Is second best good enough? An EEG study on the effects of work expectancy in sentence comprhension. Language, Cognition and Neuroscience. [[PDF]](/public/Frade_etal_21_EEG_word_expectancy.pdf)
+Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2021). Is second best good enough? An EEG study on the effects of work expectancy in sentence comprehension. Language, Cognition and Neuroscience. [[PDF]](/public/Frade_etal_21_EEG_word_expectancy.pdf)
 
 Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
 
