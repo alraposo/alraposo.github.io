@@ -5,6 +5,8 @@ title: Publications
 
 ### 2021
 
+Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.** (2021). Imagination reduces false memories for everyday action sentences: evidence from pragmatic inferences. Frontiers in Psychology, 12:668899. [[PDF]](/public/Maraver_etal_21_false_memories_PI.pdf)
+
 Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2021). Is second best good enough? An EEG study on the effects of word expectancy in sentence comprehension. Language, Cognition and Neuroscience. [[PDF]](/public/Frade_etal_21_EEG_word_expectancy.pdf)
 
 Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
