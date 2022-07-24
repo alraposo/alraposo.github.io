@@ -5,7 +5,7 @@ title: Publications
 
 ### 2022
 
-Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2022). Is second best good enough? An EEG study on the effects of word expectancy in sentence comprehension. Language, Cognition and Neuroscience, 37, 209-223. [[PDF]](/public/Frade_etal_21_EEG_word_expectancy.pdf)
+Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2022). Is second best good enough? An EEG study on the effects of word expectancy in sentence comprehension. Language, Cognition and Neuroscience, 37, 209-223. [[PDF]](/public/Frade_etal_22_EEG_word_expectancy.pdf)
 
 ### 2021
 
