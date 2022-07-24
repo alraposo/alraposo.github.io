@@ -11,9 +11,9 @@ Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2022). Is second best go
 
 Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.** (2021). Imagination reduces false memories for everyday action sentences: evidence from pragmatic inferences. Frontiers in Psychology, 12:668899. [[PDF]](/public/Maraver_etal_21_false_memories_PI.pdf)
 
-Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
+Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review, 28, 1601-1614. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
 
-Alves, M., Figueiredo, P., Roberto, M. S. & **Raposo, A.** (2021). Using concept typicality to explore semantic representation and control in healthy ageing. Cognitive Processing. [[PDF]](/public/Alves_etal_21_typicality_ageing.pdf)
+Alves, M., Figueiredo, P., Roberto, M. S. & **Raposo, A.** (2021). Using concept typicality to explore semantic representation and control in healthy ageing. Cognitive Processing, 22, 539-552. [[PDF]](/public/Alves_etal_21_typicality_ageing.pdf)
 
 Delgado, J., **Raposo, A.** & Santos, A. L. (2021). Assessing intervention effects in sentence processing: object relatives vs. subject control. Frontiers in Psychology, 12:610909. [[PDF]](/public/Delgado_etal_21_relatives_control.pdf)
 
