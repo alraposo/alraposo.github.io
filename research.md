@@ -13,7 +13,7 @@ We investigate how people’s knowledge about concepts (e.g., bird) is functiona
 
 ### Integration of words into context
 
-<img src="/public/books.jpg" class="right-300">
+<img src="/public/books.jpeg" class="right-300">
 
 Our research has provided evidence about how we access, select and integrate the meaning of words into context. In a set of fMRI and EEG studies, using semantic ambiguity, semantic illusions and semantic predictability, we have explored how the sentential context modulates the meaning attributed to upcoming words and how it enhances inference drawing. We are currently testing the hypothesis that establishing inferences while a sentence unfolds is accompanied by monitoring mechanisms mediated by the frontal cortex that enable the detection and correction of erroneous inferences.
 
