@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### 2022
+Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.**  (2022). Can we learn from errors? Retrieval facilitates the correction of false memories for pragmatic inferences. PLoS ONE, 17:e0272427. [[PDF]](/public/Maraver_etal_22_error_correction_PI.pdf)
 
 Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2022). Is second best good enough? An EEG study on the effects of word expectancy in sentence comprehension. Language, Cognition and Neuroscience, 37, 209-223. [[PDF]](/public/Frade_etal_22_EEG_word_expectancy.pdf)
 
