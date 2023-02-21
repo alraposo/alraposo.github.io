@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+### 2023
+Ribeiro, A., Marques, M., Roberto, M. S. & **Raposo, A.**  (2023). Memory footprint: predictors of flashbulb and event memories of the 2016 Euro Cup final. Frontiers in Psychology, 14:1116747. [[PDF]](/public/Ribeiro_etal_23_FBM.pdf)
 
 ### 2022
 Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.**  (2022). Can we learn from errors? Retrieval facilitates the correction of false memories for pragmatic inferences. PLoS ONE, 17:e0272427. [[PDF]](/public/Maraver_etal_22_error_correction_PI.pdf)
