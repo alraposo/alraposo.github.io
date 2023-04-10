@@ -3,24 +3,28 @@ layout: page
 title: Publications
 ---
 ### 2023
+Alves, M., Figueiredo, P. & **Raposo, A.**  (2023). Semantic cognition in healthy ageing: neural signatures of representation and control mechanisms in naming typical and atypical objects. Neuropsychologia, 184:108545. [[PDF]](/public/Alves_etal_23_ageing_fMRI.pdf)
+
+Delhaye, E., Coco, M. I., Bahri, M. A. & **Raposo, A.**  (2023). Typicality in the brain during semantic and episodic memory decisions. Neuropsychologia, 184:108529. [[PDF]](/public/Delhaye_etal_23_typicality_memory_fMRI.pdf)
+
 Ribeiro, A., Marques, M., Roberto, M. S. & **Raposo, A.**  (2023). Memory footprint: predictors of flashbulb and event memories of the 2016 Euro Cup final. Frontiers in Psychology, 14:1116747. [[PDF]](/public/Ribeiro_etal_23_FBM.pdf)
 
 ### 2022
-Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.**  (2022). Can we learn from errors? Retrieval facilitates the correction of false memories for pragmatic inferences. PLoS ONE, 17:e0272427. [[PDF]](/public/Maraver_etal_22_error_correction_PI.pdf)
-
 Frade, S., Pinheiro, A. P., Santi, A. & **Raposo, A.** (2022). Is second best good enough? An EEG study on the effects of word expectancy in sentence comprehension. Language, Cognition and Neuroscience, 37, 209-223. [[PDF]](/public/Frade_etal_22_EEG_word_expectancy.pdf)
 
+Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.**  (2022). Can we learn from errors? Retrieval facilitates the correction of false memories for pragmatic inferences. PLoS ONE, 17:e0272427. [[PDF]](/public/Maraver_etal_22_error_correction_PI.pdf)
+
 ### 2021
+
+Alves, M., Figueiredo, P., Roberto, M. S. & **Raposo, A.** (2021). Using concept typicality to explore semantic representation and control in healthy ageing. Cognitive Processing, 22, 539-552. [[PDF]](/public/Alves_etal_21_typicality_ageing.pdf)
+
+Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203:105044. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
+
+Delgado, J., **Raposo, A.** & Santos, A. L. (2021). Assessing intervention effects in sentence processing: object relatives vs. subject control. Frontiers in Psychology, 12:610909. [[PDF]](/public/Delgado_etal_21_relatives_control.pdf)
 
 Maraver, M. J., Lapa, A., Garcia-Marques, L., Carneiro, P. & **Raposo, A.** (2021). Imagination reduces false memories for everyday action sentences: evidence from pragmatic inferences. Frontiers in Psychology, 12:668899. [[PDF]](/public/Maraver_etal_21_false_memories_PI.pdf)
 
 Mikhailova, A., **Raposo, A.**, Della Sala, S. & Coco, M. I. (2021). Eye-movements reveal semantic interference effects during the encoding of naturalistic scenes in long-term memory. Psychonomic Bulletin & Review, 28, 1601-1614. [[PDF]](/public/Mikhailova_etal_21_eye_movements_semantic_interference.pdf)
-
-Alves, M., Figueiredo, P., Roberto, M. S. & **Raposo, A.** (2021). Using concept typicality to explore semantic representation and control in healthy ageing. Cognitive Processing, 22, 539-552. [[PDF]](/public/Alves_etal_21_typicality_ageing.pdf)
-
-Delgado, J., **Raposo, A.** & Santos, A. L. (2021). Assessing intervention effects in sentence processing: object relatives vs. subject control. Frontiers in Psychology, 12:610909. [[PDF]](/public/Delgado_etal_21_relatives_control.pdf)
-
-Andrade, M. Â. & **Raposo, A.** (2021). Underdeveloped recollection during adolescence: semantic elaboration and inhibition as underlying mechanisms. Journal of Experimental Child Psychology, 203:105044. [[PDF]](/public/Andrade_Raposo_21_adolescents.pdf)
 
 ### 2019
 
@@ -28,9 +32,9 @@ Vieira, A. & **Raposo, A.** (2019). Recordar um cenário de crime. Estudo sobre 
 
 ### 2018
 
-**Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164. [[PDF]](/public/Raposo_etal_18_prices.pdf)
-
 Fonseca, J., **Raposo, A.** & Martins, I.P. (2018). Cognitive functioning in chronic post-stroke aphasia. Applied Neuropsychology: Adult, 26, 355-364. [[PDF]](/public/Fonseca_etal_18_chronic_aphasia.pdf)
+
+**Raposo, A.**, Frade, S., Alves, M. & Marques, J.F. (2018). The neural bases of price estimation: effects of size and precision of the estimate. Brain and Cognition, 125, 157-164. [[PDF]](/public/Raposo_etal_18_prices.pdf)
 
 ### 2017
 
