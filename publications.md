@@ -5,6 +5,8 @@ title: Publications
 ### 2023
 Alves, M., Figueiredo, P. & **Raposo, A.**  (2023). Semantic cognition in healthy ageing: neural signatures of representation and control mechanisms in naming typical and atypical objects. Neuropsychologia, 184:108545. [[PDF]](/public/Alves_etal_23_ageing_fMRI.pdf)
 
+Andrade, M.Â., Cipriano, M. & **Raposo, A.** (2023). ObScene database: semantic congruency norms for 898 pairs of object-scene pictures. Behavior Research Methods. [[PDF]](/public/Andrade_etal_23_ObScene.pdf)
+
 Delhaye, E., Coco, M.I., Bahri, M.A. & **Raposo, A.**  (2023). Typicality in the brain during semantic and episodic memory decisions. Neuropsychologia, 184:108529. [[PDF]](/public/Delhaye_etal_23_typicality_memory_fMRI.pdf)
 
 Ribeiro, A., Marques, M., Roberto, M.S. & **Raposo, A.**  (2023). Memory footprint: predictors of flashbulb and event memories of the 2016 Euro Cup final. Frontiers in Psychology, 14:1116747. [[PDF]](/public/Ribeiro_etal_23_FBM.pdf)
