@@ -9,6 +9,8 @@ Andrade, M.Â., Cipriano, M. & **Raposo, A.** (2023). ObScene database: semantic
 
 Delhaye, E., Coco, M.I., Bahri, M.A. & **Raposo, A.**  (2023). Typicality in the brain during semantic and episodic memory decisions. Neuropsychologia, 184:108529. [[PDF]](/public/Delhaye_etal_23_typicality_memory_fMRI.pdf)
 
+Frade, S., Santi, A. & **Raposo, A.** (2023). Filling the gap: cloze probability and sentence constraint norms for 807 European Portuguese sentences. Behavior Research Methods. [[PDF]](/public/Frade_etal_23_Filling_the_gap.pdf)
+
 Ribeiro, A., Marques, M., Roberto, M.S. & **Raposo, A.**  (2023). Memory footprint: predictors of flashbulb and event memories of the 2016 Euro Cup final. Frontiers in Psychology, 14:1116747. [[PDF]](/public/Ribeiro_etal_23_FBM.pdf)
 
 ### 2022
