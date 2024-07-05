@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+### 2024
+Delhaye, E., D'Innocenzo, G., **Raposo, A.** & Coco, M.I. (2024). The upside of cumulative conceptual interference on exemplar-level mnemonic discrimination. Memory & Cognition. [[PDF]](/public/Delhaye_etal_24_cumulative_interference.pdf)
+
 ### 2023
 Alves, M., Figueiredo, P. & **Raposo, A.**  (2023). Semantic cognition in healthy ageing: neural signatures of representation and control mechanisms in naming typical and atypical objects. Neuropsychologia, 184:108545. [[PDF]](/public/Alves_etal_23_ageing_fMRI.pdf)
 
