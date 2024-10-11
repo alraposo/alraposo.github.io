@@ -3,18 +3,18 @@ layout: page
 title: Publications
 ---
 ### 2024
-Andrade, M.Â., **Raposo, A.** & Andrade, A. (2024). Exploring the late maturation of an intrinsic episodic memory network: A resting-state fMRI study. Developmental Cognitive Neuroscience. [[PDF]](/public/Andrade_etal_24_iEMN.pdf)
+Andrade, M.Â., Cipriano, M. & **Raposo, A.** (2024). ObScene database: semantic congruency norms for 898 pairs of object-scene pictures. Behavior Research Methods, 56, 3058-3071. [[PDF]](/public/Andrade_etal_23_ObScene.pdf)
+
+Andrade, M.Â., **Raposo, A.** & Andrade, A. (2024). Exploring the late maturation of an intrinsic episodic memory network: A resting-state fMRI study. Developmental Cognitive Neuroscience, 70:101453. [[PDF]](/public/Andrade_etal_24_iEMN.pdf)
 
 Delhaye, E., D'Innocenzo, G., **Raposo, A.** & Coco, M.I. (2024). The upside of cumulative conceptual interference on exemplar-level mnemonic discrimination. Memory & Cognition. [[PDF]](/public/Delhaye_etal_24_cumulative_interference.pdf)
 
 ### 2023
 Alves, M., Figueiredo, P. & **Raposo, A.**  (2023). Semantic cognition in healthy ageing: neural signatures of representation and control mechanisms in naming typical and atypical objects. Neuropsychologia, 184:108545. [[PDF]](/public/Alves_etal_23_ageing_fMRI.pdf)
 
-Andrade, M.Â., Cipriano, M. & **Raposo, A.** (2023). ObScene database: semantic congruency norms for 898 pairs of object-scene pictures. Behavior Research Methods. [[PDF]](/public/Andrade_etal_23_ObScene.pdf)
-
 Delhaye, E., Coco, M.I., Bahri, M.A. & **Raposo, A.**  (2023). Typicality in the brain during semantic and episodic memory decisions. Neuropsychologia, 184:108529. [[PDF]](/public/Delhaye_etal_23_typicality_memory_fMRI.pdf)
 
-Frade, S., Santi, A. & **Raposo, A.** (2023). Filling the gap: cloze probability and sentence constraint norms for 807 European Portuguese sentences. Behavior Research Methods. [[PDF]](/public/Frade_etal_23_filling_the_gap.pdf)
+Frade, S., Santi, A. & **Raposo, A.** (2023). Filling the gap: cloze probability and sentence constraint norms for 807 European Portuguese sentences. Behavior Research Methods, 56, 4009-4018. [[PDF]](/public/Frade_etal_23_filling_the_gap.pdf)
 
 Ribeiro, A., Marques, M., Roberto, M.S. & **Raposo, A.**  (2023). Memory footprint: predictors of flashbulb and event memories of the 2016 Euro Cup final. Frontiers in Psychology, 14:1116747. [[PDF]](/public/Ribeiro_etal_23_FBM.pdf)
 
