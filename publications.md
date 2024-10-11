@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 ### 2024
+Andrade, M.Â., **Raposo, A.** & Andrade, A. (2024). Exploring the late maturation of an intrinsic episodic memory network: A resting-state fMRI study. Developmental Cognitive Neuroscience. [[PDF]](/public/Andrade_etal_24_iEMN.pdf)
+
 Delhaye, E., D'Innocenzo, G., **Raposo, A.** & Coco, M.I. (2024). The upside of cumulative conceptual interference on exemplar-level mnemonic discrimination. Memory & Cognition. [[PDF]](/public/Delhaye_etal_24_cumulative_interference.pdf)
 
 ### 2023
