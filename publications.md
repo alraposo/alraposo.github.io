@@ -7,7 +7,7 @@ Andrade, M.Â., Cipriano, M. & **Raposo, A.** (2024). ObScene database: semantic
 
 Andrade, M.Â., **Raposo, A.** & Andrade, A. (2024). Exploring the late maturation of an intrinsic episodic memory network: A resting-state fMRI study. Developmental Cognitive Neuroscience, 70:101453. [[PDF]](/public/Andrade_etal_24_iEMN.pdf)
 
-Delhaye, E., D'Innocenzo, G., **Raposo, A.** & Coco, M.I. (2024). The upside of cumulative conceptual interference on exemplar-level mnemonic discrimination. Memory & Cognition. [[PDF]](/public/Delhaye_etal_24_cumulative_interference.pdf)
+Delhaye, E., D'Innocenzo, G., **Raposo, A.** & Coco, M.I. (2024). The upside of cumulative conceptual interference on exemplar-level mnemonic discrimination. Memory & Cognition, 52, 1567-1578. [[PDF]](/public/Delhaye_etal_24_cumulative_interference.pdf)
 
 ### 2023
 Alves, M., Figueiredo, P. & **Raposo, A.**  (2023). Semantic cognition in healthy ageing: neural signatures of representation and control mechanisms in naming typical and atypical objects. Neuropsychologia, 184:108545. [[PDF]](/public/Alves_etal_23_ageing_fMRI.pdf)
