@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+### 2026
+Ribeiro, A., Albuquerque, P.B. & **Raposo, A.** (2026). In sync: memory similarity and recall order for the 2017 Eurovision Song Contest. Behavioral Sciences, 16:2147. [[PDF]](/public/Ribeiro_etal_26_memory_similarity.pdf)
+
 ### 2025
 Fragueiro, A., Tosoni, A., Santacroce, F., Di Matteo, R., **Raposo, A.**, Sestieri, C. & Committeri, G. (2025). The restrosplenial complex as an integration zone between self- and map-based components of spatial navigation and declarative memory: an activation likelihood estimation metanalysis. Neuroscience and Biobehavioral Reviews, 180:106470. [[PDF]](/public/Fragueiro_etal_25_ALE_navigation_memory.pdf)
 
